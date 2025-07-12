@@ -7,4 +7,3 @@ textblob
 streamlit
 urlextract
 wordcloud
-collections
