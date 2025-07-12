@@ -7,7 +7,6 @@ textblob
 streamlit
 Preprocessing
 helper
-re
 urlextract
 wordcloud
 collections
