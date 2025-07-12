@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+emoji
+textblob
+streamlit
+Preprocessing
+helper
+re
+urlextract
+wordcloud
+collections
