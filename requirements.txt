@@ -6,4 +6,6 @@ emoji
 textblob
 streamlit
 urlextract
+
 wordcloud
+ta
